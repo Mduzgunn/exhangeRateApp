@@ -55,3 +55,6 @@ Geçersiz bir tarih girildiğinde görseldeki gibi hata popup'ı görünecektir.
 
 Veriler alınırken eğer bir hata ile karşılaşılmamışsa görseldeki gibi PostgreSQL'de oluşturduğumuz db'ye kaydedilecektir.
 ![](src/main/resources/static/images/db.PNG "IntelliJ IDEA")
+
+
+Eğer Frontend Uygulaması olmadan kullanmak istiyorsanız örnek olarak  http://localhost:8080/v1/api/list/ {yyyyMMdd örn -> 20230202} şeklinde tarih tanımlayıp verileri alabilirsiniz.
