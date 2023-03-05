@@ -12,7 +12,13 @@ Türkiye Cumhuriyeti Merkez Bankası (TCMB) tarafından yayınlanan döviz kurla
 - PostgreSQL
 - Spring Data JPA
 
-
+## Veriler Ne Anlama Geliyor?
+- **unit**: Seçilen kur birimi, 1 ya da 100.
+- **name**: Seçilen kur adının Türkçe karşılığı.
+- **forexBuying**: Seçilen kurun Türk Lirası karşılığının efektif alış değeridir.
+- **forexSelling**: Seçilen kurun Türk Lirası karşılığının efektif satış değeridir.
+- **banknoteBuying**: Seçilen kurun Türk Lirası karşılığının döviz alış değeridir.
+- **banknoteSelling**: Seçilen kurun Türk Lirası karşılığının döviz satış değeridir.
 ## Kurulum
 ## Frontend Uygulaması için;
 [Buraya](https://github.com/Mduzgunn/exchange-rate-frontend) tıklayarak projeyi githubdan indirebilirsiniz.
