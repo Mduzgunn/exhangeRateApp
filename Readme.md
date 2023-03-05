@@ -48,10 +48,10 @@ Projeyi çalıştırın
 
 ## Kullanım
 http://localhost:4200/ adresinde sizi karşılayan şu sayfada tarih seçerek seçtiğiniz tarihin verilerini alabilirsiniz.
-![](src/main/resources/static/images/example.png "IntelliJ IDEA")
+![](src/main/resources/static/images/example.PNG "IntelliJ IDEA")
 
 Geçersiz bir tarih girildiğinde görseldeki gibi hata popup'ı görünecektir.
-![](src/main/resources/static/images/invalid-date.png "IntelliJ IDEA")
+![](src/main/resources/static/images/invalid-date.PNG "IntelliJ IDEA")
 
 Veriler alınırken eğer bir hata ile karşılaşılmamışsa görseldeki gibi PostgreSQL'de oluşturduğumuz db'ye kaydedilecektir.
-![](src/main/resources/static/images/db.png "IntelliJ IDEA")
+![](src/main/resources/static/images/db.PNG "IntelliJ IDEA")
